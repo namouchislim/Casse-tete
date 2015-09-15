@@ -1,0 +1,11 @@
+il existe 1 solutions
+solution numero  0
+1 1 1 5 5 5
+1 1 1 5 5 5
+1 1 1 7 7 7
+8 A A A 7 B
+9 9 A 7 7 7
+3 A A A 2 2
+3 6 6 6 2 2
+3 6 6 6 2 2
+4 4 4 4 4 4
